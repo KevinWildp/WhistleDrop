@@ -33,7 +33,7 @@ pip install pycryptodome
 
 ---
 
-##  RSA-Schlüssel generieren
+##  RSA-Schlüssel generieren (nur einmalig)
 
 ```bash
 openssl genrsa -out private_key.pem 4096
