@@ -79,7 +79,7 @@ chmod 700 ~/whistledrop/tor_hidden_service
 ### 1. Terminal A – Tor starten
 
 ```bash
-tor -f torrc-temp
+tor -f ~/whistledrop/torrc-temp
 ```
 
 Warte ca. 10 Sekunden.
