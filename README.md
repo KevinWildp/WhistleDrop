@@ -116,9 +116,3 @@ python3 journalist_decrypt.py
 ---
 
 
-
----
-
-## 📄 Lizenz
-
-Dieses Projekt unterliegt dem Copyright von Kevin Wildprett und anderen Entwicklern bzw. ihren Unternehmen. Es dient ausschließlich der ...
